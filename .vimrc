@@ -22,6 +22,8 @@ Plugin 'bling/vim-airline'
 Plugin 'kien/ctrlp.vim'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'Shougo/neocomplete'
+Plugin 'vim-scripts/HTML-AutoCloseTag'
+Plugin 'hail2u/vim-css3-syntax'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
